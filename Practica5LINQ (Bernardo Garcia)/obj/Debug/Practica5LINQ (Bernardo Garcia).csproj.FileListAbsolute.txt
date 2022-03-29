@@ -1,0 +1,8 @@
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\bin\Debug\Practica5LINQ (Bernardo Garcia).exe.config
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\bin\Debug\Practica5LINQ (Bernardo Garcia).exe
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\bin\Debug\Practica5LINQ (Bernardo Garcia).pdb
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\obj\Debug\Practica5LINQ (Bernardo Garcia).csproj.AssemblyReference.cache
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\obj\Debug\Practica5LINQ (Bernardo Garcia).csproj.SuggestedBindingRedirects.cache
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\obj\Debug\Practica5LINQ (Bernardo Garcia).csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\obj\Debug\Practica5LINQ (Bernardo Garcia).exe
+D:\Proyectos Progra III\Practica5LINQ (Bernardo Garcia)\Practica5LINQ (Bernardo Garcia)\obj\Debug\Practica5LINQ (Bernardo Garcia).pdb
